@@ -1,0 +1,32 @@
+body{
+    background-color: #6e7685;
+    padding-left: 5rem;
+    padding-top: 2rem;
+    padding-right: 5rem;
+    padding-bottom: 4rem;
+}
+#satu {
+    background-color: #9168b3;
+  height: 85px;
+    padding-left: 20px;  
+    padding-top: 10px;
+}
+
+#dua {
+    background-color: #a8b368;
+    height: 85px;
+    padding-right: 20px;  
+    padding-top: 10px;
+}
+#tiga {
+    background-color: #b36c68;;
+    height: 85px;
+    padding-right: 25px;  
+    padding-top: 10px;
+}
+#empat {
+    background-color:  #636363;
+    height: 85px;
+    padding-right: 20px;  
+    padding-top: 10px;
+}
